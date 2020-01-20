@@ -33,19 +33,19 @@ The comparison and analysis of the different architectures can be found in the c
 ```sh
 analyze_plots.py dcgan3
 ```
-![training_animations/dcgan3.gif](http://antoine.delplace.eu/files/training_animations/dcgan3.gif)
+[training_animations/dcgan3.gif](http://antoine.delplace.eu/files/training_animations/dcgan3.gif)
 
 ### SRResGAN
 ```sh
 analyze_plots.py srresgan1
 ```
-![training_animations/srresgan1.gif](http://antoine.delplace.eu/files/training_animations/srresgan1.gif)
+[training_animations/srresgan1.gif](http://antoine.delplace.eu/files/training_animations/srresgan1.gif)
 
 ### ProGAN
 ```sh
 analyze_plots_prog.py progan5
 ```
-![training_animations/progan5.gif](http://antoine.delplace.eu/files/training_animations/progan5.gif)
+[training_animations/progan5.gif](http://antoine.delplace.eu/files/training_animations/progan5.gif)
 
 ## References
 1. _Conference Paper_ (available soon)
