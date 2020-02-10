@@ -1,6 +1,6 @@
 # MRI-Generation
 _Author: Antoine DELPLACE_  
-_Last update: 17/01/2020_
+_Last update: 10/02/2020_
 
 This repository corresponds to the source code used for the MRI generation part of my Master Thesis entitled "__Segmentation and Generation of Magnetic Resonance Images by Deep Neural Networks__".
 
@@ -48,5 +48,5 @@ analyze_plots_prog.py progan5
 [training_animations/progan5.gif](http://antoine.delplace.eu/files/training_animations/progan5.gif)
 
 ## References
-1. _Conference Paper_ (available soon)
+1. A. Delplace. "Synthetic Magnetic Resonance Images with Generative Adversarial Networks", _Conference paper at the University of Queensland_, October 2019. [arXiv:2002.02527](https://arxiv.org/abs/2002.02527)  
 2. A. Delplace. "Segmentation and Generation of Magnetic Resonance Images by Deep Neural Networks", _Master thesis at the University of Queensland_, October 2019. [arXiv:2001.05447](https://arxiv.org/abs/2001.05447)
